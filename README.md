@@ -1,6 +1,6 @@
 # 📊 Flipkart Page Scraper
 
-A Python-based web scraping tool that extracts textual content and images from Flipkart’s mobiles category page using `requests` and `BeautifulSoup`.
+A Python-based web scraping tool that extracts textual content and images from Flipkart’s page using `requests` and `BeautifulSoup`.
 
 ---
 
