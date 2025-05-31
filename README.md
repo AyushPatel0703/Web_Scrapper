@@ -26,7 +26,7 @@ This script performs the following tasks:
 
 ## 📁 Project Structure
 
-web-scraper/ \n
-├── scraper.py # Main script file \n
-├── text.txt # Extracted text content \n
-├── images/ # Directory containing downloaded images
+web-scraper/
+- ├── scraper.py # Main script file
+- ├── text.txt # Extracted text content
+- ├── images/ # Directory containing downloaded images
